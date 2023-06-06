@@ -1,10 +1,17 @@
-# Thai-railway-pj2
+Thai-railway-pj2
+
 Section: 2
+
 Group: 13
+
 Member:
+
 Miss  Supithcha    	Jongphoemwatthanaphon  	 6488045
+
 Miss  Kanita		Karunkittikun  	         6488049
+
 Miss  Sasasuang  	Pattanakitjaroenchai     6488052
+
 Miss  Nisakorn 		Ngaosri                  6488226
 
 Setting MYSQL Server
