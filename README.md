@@ -1,4 +1,4 @@
-Thai-railway-pj2
+# Project phase 2 Webprogramming
 
 Section: 2 <br>
 Group: 13 <br>
