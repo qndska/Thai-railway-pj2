@@ -31,13 +31,13 @@ How to run our codes
 
 #SceenShot of the website
 - Homepage: 
-<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/c7e6bcef-aab3-41f7-adc3-a6c8bd0bb320" width="200"/>
+<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/c7e6bcef-aab3-41f7-adc3-a6c8bd0bb320" width="400"/>
 - Weather API:
-<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/95c7d12d-cd2c-4921-81d2-88cb4f55a051" width="200"/>
+<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/95c7d12d-cd2c-4921-81d2-88cb4f55a051" width="400"/>
 - Footer:
-<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/2df2d89a-565d-4c49-9656-5ea28ce5af26" width="200"/>
+<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/2df2d89a-565d-4c49-9656-5ea28ce5af26" width="400"/>
 - Login page:
-<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/da337eab-8426-4275-a897-5e0fd965751d" width="200"/>
+<img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/da337eab-8426-4275-a897-5e0fd965751d" width="400"/>
 - Welcome admin page:
 ![Capture](https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/40aef2fb-fd3c-47c9-a1a3-af6bfe3fe59c)
 - Search page:
