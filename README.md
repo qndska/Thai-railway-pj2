@@ -29,7 +29,7 @@ How to run our codes
 9. Open the website base on port that server listening. (For our surver listening on localhost:3030)
 10. Welcome to our web application
 
-# SceenShot of the website
+# Sceenshots of the website
 - Homepage: <br /> <br />
 <img src="https://github.com/qndska/Thai-railway-pj2-webproproject/assets/106175374/c7e6bcef-aab3-41f7-adc3-a6c8bd0bb320" width="800"/> <br /> <br />
 - Weather API: <br /> <br />
